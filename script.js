@@ -27,6 +27,7 @@ else if( click === 2){
 }else{
     btnSolo.innerHTML='Esse botão não faz nada!';
     click = 0;
+    secret.innerHTML=''
 }
 
 }
