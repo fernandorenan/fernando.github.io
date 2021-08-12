@@ -58,7 +58,6 @@ window.addEventListener('DOMContentLoaded', event => {
 //     click++;
     
 //     secret.innerHTML='<p>Em breve apresento algo digno de portfolio, ou não.</p>'
-
 // }else{
 //     btnSolo.innerHTML='Esse botão não faz nada!';
 //     click = 0;
